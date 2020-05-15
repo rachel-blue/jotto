@@ -21,7 +21,7 @@ class Input extends Component {
              Submit
            </button>
         </form>
-      )
+      );
     return (
       <div data-test="component-input">
         { contents }
